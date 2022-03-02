@@ -6,6 +6,7 @@ public class DemoJenkin {
 		
 		System.out.println("Hello Jenkin!!");
 		System.out.println("Hi");
+		System.out.println("This is added in github");
 
 		
 	}
